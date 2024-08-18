@@ -15,10 +15,10 @@ This project demonstrates a video streaming setup with a frontend web applicatio
 - [Node.js](https://nodejs.org/) (for running the backend server)
 - [FFmpeg](https://ffmpeg.org/) (for processing and streaming video)
 - [rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) (for the RTSP server)
-- [docker](https://www.docker.com/) (for the RTSP server)
+- [Docker](https://www.docker.com/) (for the RTSP server)
 
 ### Setup and Installation
-1. **Clone the Repository:**
+1. Clone the Repository
 2. Install Dependencies on the backend:
 ```cd ./rtsp-websocket-server```
 ```npm install```
